@@ -1,1 +1,2 @@
 # Vex
+print("hello")
